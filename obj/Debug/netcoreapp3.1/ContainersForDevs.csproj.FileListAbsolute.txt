@@ -1,0 +1,2 @@
+C:\Desarrollo\ContainersForDevs\bin\Debug\netcoreapp3.1\ContainersForDevs.dll
+C:\Desarrollo\ContainersForDevs\bin\Debug\netcoreapp3.1\ContainersForDevs.Views.dll
